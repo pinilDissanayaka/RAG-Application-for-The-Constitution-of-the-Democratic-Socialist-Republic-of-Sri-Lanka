@@ -12,6 +12,8 @@ This repository contains a Retrieval-Augmented Generation (RAG) application desi
 - LangChain: Framework for orchestrating the retrieval and generation process.
 - Pinecone: Vector store for storing and querying document embeddings.
 
+![Your paragraph text (1)](https://github.com/user-attachments/assets/bdab1fba-e2c8-46a2-a91d-ffd57a9d75f3)
+
 ## Getting Started
 ### Prerequisites
 - Python 3.8 or higher
